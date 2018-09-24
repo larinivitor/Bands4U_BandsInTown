@@ -1,4 +1,4 @@
-
+Simple application in Vue for the purpose of showing upcoming presentations of your favorite singer
 
 ![Screenshot](Selection_004.png)
 
